@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815435080642",
+    "project_id": "odoo-a9dc3",
+    "storage_bucket": "odoo-a9dc3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815435080642:android:df449ba361116297d3ec5b",
+        "android_client_info": {
+          "package_name": "odoo.a17"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3y0pBkifmLg59vdy7W2CesIBKgeY3mdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
